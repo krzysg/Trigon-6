@@ -14,9 +14,10 @@
 [MIDI Implementation v. 1.1](https://sequential.com/wp-content/uploads/2022/12/Trigon-6-MIDI-Implementation-1.1.pdf)  
 
 #### Web links on Sequential website
-[Trigon-6 NEW](https://sequential.com/modern-analog/trigon-6/)  
-[Trigon-6 OLD (but useful as long as it works)](https://sequential.com/product/trigon-6/)  
-[Trigon-6 UPDATE OS info](https://sequential.com/updating-the-Trigon-6-os/)  
+[NEW](https://sequential.com/modern-analog/trigon-6/)  
+[OLD (but useful as long as it works)](https://sequential.com/product/trigon-6/)  
+[UPDATE OS info (OLD)](https://sequential.com/updating-the-Trigon-6-os/)  
+[UPDATE OS info (NEW)](https://sequential.com/support/download/trigon-6-operating-system/)  
 [Trigon-6 SUPPORT](https://sequential.com/support/)  
 
 

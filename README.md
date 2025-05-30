@@ -36,6 +36,24 @@ Basic preset is useful for creating a new sound from scratch:
 1. Hold down the preset button.
 2. Press the write button.
 
+
+#### Hidden/Sicret Key Combination (not official - might not work when OS changes!)
+
+##### Checked on OS 1.1.2
+HOLD + GLIDE + 3 - internal temperature
+
+Another useful 'secret' button combo I've come across is turning the unit on while pressing 'hold'. This boots the unit into test mode where the values of any knob you turn will be displayed numerically on the bank readout. 
+
+##### Not checked (yet)
+*"Hold+Portamento+0" copies the User banks 000-499 to Presets banks 500-599.   
+
+You can copy the user banks to the factory banks by holding down both transpose buttons (keyboard) or Hold and Portamento (desktop) and pressing 0, or copy the factory banks to the user banks by holding down the same combination and pressing 9.
+
+
+NOTE: the combination to clear the temperature / tuning tables is not Manual+3 (as I erroneously wrote in my first post in this thread), but rather holding down "Hold+Portamento+4" on the desktop version.
+DO THIS AT YOUR OWN RISKS, since this will clear all tuning reference data and you will have to rebuild those tables by holding down "Manual+0" many times in the following days and weeks at different times and room temperatures in order to build it back up again. You have been warned.
+
+
 ### SysEx format:
 
 #### 1. Unpacking Trigon's pitch data from its SysEx dumps.

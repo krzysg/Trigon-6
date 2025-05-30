@@ -37,14 +37,14 @@ Basic preset is useful for creating a new sound from scratch:
 2. Press the write button.
 
 
-#### Hidden/Sicret Key Combination (not official - might not work when OS changes!)
+### Hidden/Sicret Key Combination (not official - might not work when OS changes!)
 
-##### Checked on OS 1.1.2
+#### Checked on OS 1.1.2
 HOLD + GLIDE + 3 - internal temperature
 
 Another useful 'secret' button combo I've come across is turning the unit on while pressing 'hold'. This boots the unit into test mode where the values of any knob you turn will be displayed numerically on the bank readout. 
 
-##### Not checked (yet)
+#### Not checked (yet)
 *"Hold+Portamento+0" copies the User banks 000-499 to Presets banks 500-599.   
 
 You can copy the user banks to the factory banks by holding down both transpose buttons (keyboard) or Hold and Portamento (desktop) and pressing 0, or copy the factory banks to the user banks by holding down the same combination and pressing 9.

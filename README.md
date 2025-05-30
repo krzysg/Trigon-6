@@ -11,6 +11,7 @@
 [Operation Manual v. 1.2, (english) Aug 2023](https://sequential.com/wp-content/uploads/2023/07/Trigon-6-Operation-Manual-1.2.pdf)  
 [Operation Manual v. 1.1, (english) Nov 2022](https://sequential.com/wp-content/uploads/2022/12/Trigon-6-Users-Guide-1.1.pdf)  
 [Benutzerhandbuch v. 1.2, (german) Dezember 2024](https://sequential.com/wp-content/uploads/2024/12/Trigon-6-Benutzerhandbuch.pdf)  
+[MIDI Implementation v. 1.1](https://sequential.com/wp-content/uploads/2022/12/Trigon-6-MIDI-Implementation-1.1.pdf)  
 
 #### Web links on Sequential website
 [Trigon-6 NEW](https://sequential.com/modern-analog/trigon-6/)  

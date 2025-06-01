@@ -26,6 +26,7 @@
 [General TIPS/HINTS](https://support.sequential.com/hc/en-gb/articles/9113506579474-Trigon-6-Keyboard-Troubleshooting)  
 [A Brief Explanation on Calibration](https://support.sequential.com/hc/en-gb/articles/13687984487186-A-Brief-Explanation-on-Calibration)  
 
+[Trigon-6 keyboard key replacement guide](https://sequential.com/trigon-6-keyboard-key-replacement-guide/)
 
 ## Other
 ### Key combinations
